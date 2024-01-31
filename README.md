@@ -1,0 +1,2 @@
+# bicepproject
+FOr Bicep project
